@@ -1,0 +1,10 @@
+tcp_echoserver.c:70:6:tcp_echoserver_init	16	static
+tcp_echoserver.c:106:14:tcp_echoserver_accept	32	static
+tcp_echoserver.c:171:16:tcp_echoserver_recv	40	static
+tcp_echoserver.c:368:13:tcp_echoserver_send	32	static
+tcp_echoserver.c:433:14:tcp_echoserver_sent	32	static
+tcp_echoserver.c:467:14:tcp_echoserver_poll	24	static
+tcp_echoserver.c:510:13:tcp_echoserver_connection_close	16	static
+tcp_echoserver.c:543:13:tcp_echoserver_error	24	static
+tcp_echoserver.c:566:6:message_send	32	static
+tcp_echoserver.c:622:6:HAL_GPIO_EXTI_Callback	24	static
